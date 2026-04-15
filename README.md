@@ -23,8 +23,18 @@
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/askofu523/askofu523/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/askofu523/askofu523/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/askofu523/askofu523/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=askofu523&theme=github-compact&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<p align="center">
+  <i>⚡ "Never give up. Never back down." ⚡</i>
+</p>

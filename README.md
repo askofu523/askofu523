@@ -22,6 +22,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Hack%20the%20Planet!&author=ByteSentinel" width="60%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=askofu523&theme=github-compact&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true" width="95%" />
+</p>
 
 ---
 

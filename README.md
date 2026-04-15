@@ -21,3 +21,10 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Hack%20the%20Planet!&author=ByteSentinel" width="60%" />
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/askofu523/askofu523/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/askofu523/askofu523/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/askofu523/askofu523/output/github-contribution-grid-snake.svg">
+</picture>

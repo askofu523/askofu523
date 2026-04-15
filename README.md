@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=00FF41&center=true&vCenter=true&width=650&lines=Penetration+Tester;Web+Security+Researcher;Bug+Bounty+Hunter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=./access_granted.sh;Penetration+Tester+🔒;Web+Security+Researcher+🔍;Bug+Bounty+Hunter+💰;System+Administrator+💻)](https://git.io/typing-svg)
